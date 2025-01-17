@@ -17,18 +17,3 @@ This project explores the application of **Natural Language Processing (NLP)** a
 
 **This project aims to demonstrate the power of NLP and machine learning in understanding and interpreting human emotions expressed in written text.**
 
-[Optional: Add a link to your live demo or a link to a blog post about your project]
-
-[Optional: Include a screenshot of your project's user interface or a visualization of your results]
-
-**Contributing**
-
-[Optional: Include guidelines for contributing to your project, such as how to set up the development environment, how to submit pull requests, etc.]
-
-**License**
-
-[Optional: Specify the license under which your project is released, e.g., MIT License]
-
-**Acknowledgments**
-
-[Optional: Acknowledge any individuals or organizations that have contributed to your project]
